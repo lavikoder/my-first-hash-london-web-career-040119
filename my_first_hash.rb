@@ -28,8 +28,8 @@ def retrieval
     "porcelain vases" => 2, 
     "oil paintings" => 3
   }
-  end
 shipping_manifest["oil paintings"]
+  end
 
 def adding
   shipping_manifest = { 
